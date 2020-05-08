@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\obj\Debug\netcoreapp3.1\printOdds1To255.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\obj\Debug\netcoreapp3.1\printOdds1To255.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\obj\Debug\netcoreapp3.1\printOdds1To255.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\obj\Debug\netcoreapp3.1\printOdds1To255.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\bin\Debug\netcoreapp3.1\printOdds1To255.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\bin\Debug\netcoreapp3.1\printOdds1To255.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\bin\Debug\netcoreapp3.1\printOdds1To255.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\bin\Debug\netcoreapp3.1\printOdds1To255.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\bin\Debug\netcoreapp3.1\printOdds1To255.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\bin\Debug\netcoreapp3.1\printOdds1To255.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\obj\Debug\netcoreapp3.1\printOdds1To255.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\obj\Debug\netcoreapp3.1\printOdds1To255.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printOdds1To255\obj\Debug\netcoreapp3.1\printOdds1To255.genruntimeconfig.cache

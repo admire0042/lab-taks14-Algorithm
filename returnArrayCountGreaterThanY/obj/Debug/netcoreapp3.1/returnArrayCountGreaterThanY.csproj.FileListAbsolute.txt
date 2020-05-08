@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\bin\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\bin\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\bin\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\bin\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\bin\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\bin\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\obj\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\obj\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\obj\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\obj\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\obj\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\obj\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\returnArrayCountGreaterThanY\obj\Debug\netcoreapp3.1\returnArrayCountGreaterThanY.genruntimeconfig.cache

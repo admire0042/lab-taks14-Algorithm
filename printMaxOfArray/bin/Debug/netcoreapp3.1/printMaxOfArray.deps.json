@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "printMaxOfArray/1.0.0": {
+        "runtime": {
+          "printMaxOfArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "printMaxOfArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\bin\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\bin\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\bin\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\bin\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\bin\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\bin\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\obj\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\obj\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\obj\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\obj\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\obj\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\obj\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printMaxMinAverageArrayVals\obj\Debug\netcoreapp3.1\printMaxMinAverageArrayVals.genruntimeconfig.cache

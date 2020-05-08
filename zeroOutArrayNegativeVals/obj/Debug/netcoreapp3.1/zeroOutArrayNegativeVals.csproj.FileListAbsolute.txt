@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\bin\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\bin\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\bin\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\bin\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\bin\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\bin\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\obj\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\obj\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\obj\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\obj\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\obj\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\obj\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\zeroOutArrayNegativeVals\obj\Debug\netcoreapp3.1\zeroOutArrayNegativeVals.genruntimeconfig.cache

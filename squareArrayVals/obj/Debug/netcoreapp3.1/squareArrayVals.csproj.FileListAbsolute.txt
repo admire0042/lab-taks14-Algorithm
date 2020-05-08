@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\bin\Debug\netcoreapp3.1\squareArrayVals.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\bin\Debug\netcoreapp3.1\squareArrayVals.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\bin\Debug\netcoreapp3.1\squareArrayVals.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\bin\Debug\netcoreapp3.1\squareArrayVals.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\bin\Debug\netcoreapp3.1\squareArrayVals.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\bin\Debug\netcoreapp3.1\squareArrayVals.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\obj\Debug\netcoreapp3.1\squareArrayVals.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\obj\Debug\netcoreapp3.1\squareArrayVals.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\obj\Debug\netcoreapp3.1\squareArrayVals.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\obj\Debug\netcoreapp3.1\squareArrayVals.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\obj\Debug\netcoreapp3.1\squareArrayVals.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\obj\Debug\netcoreapp3.1\squareArrayVals.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\squareArrayVals\obj\Debug\netcoreapp3.1\squareArrayVals.genruntimeconfig.cache

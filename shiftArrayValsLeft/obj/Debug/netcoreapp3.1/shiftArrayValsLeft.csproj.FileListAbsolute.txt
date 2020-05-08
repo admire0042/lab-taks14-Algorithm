@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\bin\Debug\netcoreapp3.1\shiftArrayValsLeft.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\bin\Debug\netcoreapp3.1\shiftArrayValsLeft.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\bin\Debug\netcoreapp3.1\shiftArrayValsLeft.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\bin\Debug\netcoreapp3.1\shiftArrayValsLeft.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\bin\Debug\netcoreapp3.1\shiftArrayValsLeft.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\bin\Debug\netcoreapp3.1\shiftArrayValsLeft.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\obj\Debug\netcoreapp3.1\shiftArrayValsLeft.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\obj\Debug\netcoreapp3.1\shiftArrayValsLeft.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\obj\Debug\netcoreapp3.1\shiftArrayValsLeft.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\obj\Debug\netcoreapp3.1\shiftArrayValsLeft.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\obj\Debug\netcoreapp3.1\shiftArrayValsLeft.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\obj\Debug\netcoreapp3.1\shiftArrayValsLeft.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\shiftArrayValsLeft\obj\Debug\netcoreapp3.1\shiftArrayValsLeft.genruntimeconfig.cache

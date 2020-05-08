@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\bin\Debug\netcoreapp3.1\printAverageOfArray.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\bin\Debug\netcoreapp3.1\printAverageOfArray.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\bin\Debug\netcoreapp3.1\printAverageOfArray.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\bin\Debug\netcoreapp3.1\printAverageOfArray.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\bin\Debug\netcoreapp3.1\printAverageOfArray.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\bin\Debug\netcoreapp3.1\printAverageOfArray.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\obj\Debug\netcoreapp3.1\printAverageOfArray.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\obj\Debug\netcoreapp3.1\printAverageOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\obj\Debug\netcoreapp3.1\printAverageOfArray.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\obj\Debug\netcoreapp3.1\printAverageOfArray.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\obj\Debug\netcoreapp3.1\printAverageOfArray.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\obj\Debug\netcoreapp3.1\printAverageOfArray.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task14\printAverageOfArray\obj\Debug\netcoreapp3.1\printAverageOfArray.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "returnOddsArray1To255/1.0.0": {
+        "runtime": {
+          "returnOddsArray1To255.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "returnOddsArray1To255/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
